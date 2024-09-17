@@ -16,11 +16,24 @@ Advantages of Waterfall methodology include having a clear structure, its very e
 Agile is more benefial in projects that are dynamic, innovative or evolving. An example include app development, artificial intelligence or machine learning projects. Waterfall is more beneficial in projects that have well defined requirements, fixed timelines and regulatory constraints. These projects might include government contracts, financial systems or hardware development. 
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Methods for ensuring quality assurance include automated testing, manual testing, code reviews, test driven development and static code analysis. Quality assurance is important because it ensures customer satisfaction, can save costs, increases reliability and protects brand reputation.
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining project scope is important because it clearly sets out boundaries, objectives and deliveries of the project. WBS is a hierarchical decomposition of the total scope of work that must be accomplished to achieve the project objectives and deliverables. It is important because it improves management of the project. There is clarity and focus, this will help with resource allocation for each task.
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+It provides a clear roadmap. Improves time management. Much more focus when allocating resources. There is accountability and enhanced communication. Gantt charts help by providing visual representation., tracking of progress and making necessary adjustments. As well as management of resources.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Issues include access to information, help solve problems, improve efficiency and enhance learning. 
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+It helps understand the needs of expected users, thereby focusing development on the goals and expectations of the target audience.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+It is a solution that will help students and curious people in answering questions they face everyday in their day to day lives.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+
 ## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
